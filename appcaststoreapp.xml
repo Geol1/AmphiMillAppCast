@@ -42,6 +42,16 @@
       <pubDate>Dim, 21 Oct 2023 00:00:00 GMT</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.21" sparkle:os="android" />
     </item>
+    
+    <!-- Version 1.0.22 -->
+     <item>
+      <title>Version 1.0.22</title>
+      <description>
+       first Version before production
+      </description>
+      <pubDate>Wed, 22 Oct 2023 00:00:00 GMT</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.22" sparkle:os="android" />
+    </item>
 
     <!-- Ajoutez des entrées pour chaque nouvelle version de votre application -->
 
