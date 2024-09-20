@@ -10,8 +10,8 @@
       <description>
         Ajout de la fonctionnalité de mise à jour automatique
       </description>
-      <pubDate>Fri, 20 Jan 2024 00:00:00 GMT</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/amphimill/amphimill-app/main/appcaststoreapp.xml" sparkle:version="1.1.36" sparkle:os="android" />
+      <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.1.36" sparkle:os="android" />
     </item>
   </channel>
 </rss>
