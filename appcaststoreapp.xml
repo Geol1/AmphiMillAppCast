@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Amphi Mill</title>
-    <description>Une application complète conçue pour répondre aux besoins des étudiants. Elle regroupe tous les outils essentiels au quotidien, offrant ainsi une variété de fonctionnalités telles que les anciens sujets d'examen, les procédures administratives, les préinscriptions, la recherche de chambres universitaires, des quiz interactifs, des jobs étudiants, des services de répétitions, des informations sur les concours et les bourses, ainsi que des fonctionnalités de réseau social étudiant pour interagir avec leurs pairs et bien plus encore. Tout cela, dans une seule application conviviale et facile à utiliser. Les étudiants peuvent rester organisés, informés et connectés tout au long de leur parcours universitaire.</description>
-
-    <!-- Ajoutez des entrées pour chaque nouvelle version de votre application -->
     <item>
       <title>Version 1.1.36</title>
-      <description>
-        Ajout de la fonctionnalité de mise à jour automatique
-      </description>
+      <description>Ajout de la fonctionnalité de mise à jour automatique</description>
       <pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.1.36" sparkle:os="android" />
+    </item>
+
+    <item>
+        <title>Version 73.0</title>
+        <description>Minor updates and improvements.</description>
+        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="73" sparkle:os="android" />
     </item>
   </channel>
 </rss>
