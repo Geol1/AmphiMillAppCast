@@ -3,57 +3,15 @@
   <channel>
     <title>Amphi Mill</title>
     <description>Une application complète conçue pour répondre aux besoins des étudiants. Elle regroupe tous les outils essentiels au quotidien, offrant ainsi une variété de fonctionnalités telles que les anciens sujets d'examen, les procédures administratives, les préinscriptions, la recherche de chambres universitaires, des quiz interactifs, des jobs étudiants, des services de répétitions, des informations sur les concours et les bourses, ainsi que des fonctionnalités de réseau social étudiant pour interagir avec leurs pairs et bien plus encore. Tout cela, dans une seule application conviviale et facile à utiliser. Les étudiants peuvent rester organisés, informés et connectés tout au long de leur parcours universitaire.</description>
-    
-    <!-- Version 1.0.0 -->
-    <item>
-      <title>Version 1.0.17</title>
-      <description>
-       first Version
-      </description>
-      <pubDate>Fri, 01 Oct 2023 00:00:00 GMT</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.17" sparkle:os="android" />
-    </item>
-
-    <!-- Version 1.0.18 -->
-     <item>
-      <title>Version 1.0.18</title>
-      <description>
-       first Version
-      </description>
-      <pubDate>Tues, 11 Oct 2023 00:00:00 GMT</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.18" sparkle:os="android" />
-    </item>
-    <!-- Version 1.0.20 -->
-     <item>
-      <title>Version 1.0.20</title>
-      <description>
-       first Version
-      </description>
-      <pubDate>Tues, 17 Oct 2023 00:00:00 GMT</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.20" sparkle:os="android" />
-    </item>
-
-    <!-- Version 1.0.21 -->
-     <item>
-      <title>Version 1.0.21</title>
-      <description>
-       first Version before production
-      </description>
-      <pubDate>Dim, 21 Oct 2023 00:00:00 GMT</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.21" sparkle:os="android" />
-    </item>
-    
-    <!-- Version 1.0.22 -->
-     <item>
-      <title>Version 1.0.22</title>
-      <description>
-       first Version before production
-      </description>
-      <pubDate>Wed, 22 Oct 2023 00:00:00 GMT</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=com.amphimill.app" sparkle:version="1.0.22" sparkle:os="android" />
-    </item>
 
     <!-- Ajoutez des entrées pour chaque nouvelle version de votre application -->
-
+    <item>
+      <title>Version 1.1.36</title>
+      <description>
+        Ajout de la fonctionnalité de mise à jour automatique
+      </description>
+      <pubDate>Fri, 20 Jan 2024 00:00:00 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/amphimill/amphimill-app/main/appcaststoreapp.xml" sparkle:version="1.1.36" sparkle:os="android" />
+    </item>
   </channel>
 </rss>
